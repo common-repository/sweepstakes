@@ -1,0 +1,302 @@
+# Copyright (C) 2012 Sweepstakes
+# This file is distributed under the same license as the Sweepstakes package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Sweepstakes 0.1\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/plugin/sweepstakes\n"
+"POT-Creation-Date: 2012-05-27 20:27:55+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2012-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Carlos Sanz Garcia <carlos.sanz@gmail.com>\n"
+"Language-Team: Carlos Sanz Garcia <carlos.sanz@gmail.com>\n"
+
+# sweepstakes.php
+msgid "Promos"
+msgstr ""
+
+# sweepstakes.php
+msgid "Promo"
+msgstr ""
+
+# sweepstakes.php
+msgid "Add new promo"
+msgstr ""
+
+# sweepstakes.php
+msgid "Edit"
+msgstr ""
+
+# sweepstakes.php
+msgid "Edit promo"
+msgstr ""
+
+# sweepstakes.php
+msgid "New promo"
+msgstr ""
+
+# sweepstakes.php
+msgid "View promo"
+msgstr ""
+
+# sweepstakes.php
+msgid "Search promos"
+msgstr ""
+
+# sweepstakes.php
+msgid "No promo found"
+msgstr ""
+
+# sweepstakes.php
+msgid "No promos in trash"
+msgstr ""
+
+# sweepstakes.php
+msgid "Parent promo"
+msgstr ""
+
+# sweepstakes.php
+msgid "Specific content for promos"
+msgstr ""
+
+# sweepstakes.php
+msgid "Promo code"
+msgstr ""
+
+# sweepstakes.php
+msgid "Register form"
+msgstr ""
+
+# sweepstakes.php
+msgid "Participants / Winners"
+msgstr ""
+
+# sweepstakes.php
+msgid "Activate promo codes series"
+msgstr ""
+
+# sweepstakes.php
+msgid "Creates a serial code for this sweepstake"
+msgstr ""
+
+# sweepstakes.php
+msgid "<em>Currently there are participants, so these values <u>can not be changed</u></em>"
+msgstr ""
+
+# sweepstakes.php
+msgid "code"
+msgstr ""
+
+# sweepstakes.php
+msgid "PROMO2012"
+msgstr ""
+
+
+# sweepstakes.php
+msgid "range"
+msgstr ""
+
+# sweepstakes.php
+msgid "start"
+msgstr ""
+
+# sweepstakes.php
+msgid "end"
+msgstr ""
+
+# sweepstakes.php
+msgid "For example: 1 - 1000"
+msgstr ""
+
+# sweepstakes.php
+msgid "10 digits will create: <code>nUFyPiFdB1</code>"
+msgstr ""
+
+# sweepstakes.php
+msgid "Download serie"
+msgstr ""
+
+# sweepstakes.php
+msgid "Select witch fields to use in registration form:"
+msgstr ""
+
+# sweepstakes.php
+msgid "Add field"
+msgstr ""
+
+# sweepstakes.php
+msgid "Or create a new one yourself"
+msgstr ""
+
+# sweepstakes.php
+msgid "Add and sort the fields you want display in the register form, all field will be displayed as text input"
+msgstr ""
+
+# sweepstakes.php
+msgid "Terms page"
+msgstr ""
+
+# sweepstakes.php
+msgid "Without Terms page"
+msgstr ""
+
+# sweepstakes.php
+msgid "If you define a "Terms" page the customer will be asked to accept it before submit the form."
+msgstr ""
+
+# sweepstakes.php
+msgid "For example, a draw could have 3 winners, with 3 different lots"
+msgstr ""
+
+# sweepstakes.php
+msgid "Users who have participated in the draw:"
+msgstr ""
+
+# sweepstakes.php
+msgid "no participants yet"
+msgstr ""
+
+# sweepstakes.php
+msgid "Download participants"
+msgstr ""
+
+# sweepstakes.php
+msgid "Winners"
+msgstr ""
+
+# sweepstakes.php
+msgid "no winner/s for now"
+msgstr ""
+
+# sweepstakes.php
+msgid "Random winner/s"
+msgstr ""
+
+# sweepstakes.php
+msgid "Delete winner/s"
+msgstr ""
+
+# sweepstakes.php
+msgid "Participants"
+msgstr ""
+
+# sweepstakes.php
+msgid "Winner/s"
+msgstr ""
+
+# sweepstakes.php
+msgid "participants"
+msgstr ""
+
+# sweepstakes.php
+msgid "disabled"
+msgstr ""
+
+# sweepstakes.php
+msgid "Number of winners"
+msgstr ""
+
+# sweepstakes.php
+msgid "<h2 class=\'%s\'>This sweepstakes is finished, and the winner/s is/are...</h2>"
+msgstr ""
+
+# sweepstakes.php
+msgid "<p class=\'%s\'>If you are one of the lucky ones and have not received any mail, please contact the administrator.</p>"
+msgstr ""
+
+# sweepstakes.php
+msgid "<h2 class=\'%s\'>Hello <u>%s</u>, to participate on this promo add your code below</h2>"
+msgstr ""
+
+# sweepstakes.php
+msgid "<h2 class=\'%s\'>Hello <u>%s</u>, you\'ve participated in this promo</h2>"
+msgstr ""
+
+# sweepstakes.php
+msgid "<p class=\'%s\'>Wait for the draw for testing whether you are one of the lucky</p>"
+msgstr ""
+
+# sweepstakes.php
+msgid "<p class=\'%s\'>Thank you!</p>"
+msgstr ""
+
+# sweepstakes.php
+msgid "<h2 class=\'%s\'>Hello <u>%s</u>, to participate on this promo, click button below</h2>"
+msgstr ""
+
+# sweepstakes.php
+msgid "<h2 class=\'%s\'>To participate in this promo, please choose</h2>"
+msgstr ""
+
+# sweepstakes.php
+msgid "There is no user with that email"
+msgstr ""
+
+# sweepstakes.php
+msgid "Incorrect password"
+msgstr ""
+
+# sweepstakes.php
+msgid "Sorry, some error happened, reload the page and try again."
+msgstr ""
+
+# sweepstakes.php
+msgid "New user registration on your site %s:"
+msgstr ""
+
+# sweepstakes.php
+msgid "Congratulations you have registered on this promo with this code: <code>%s</code>"
+msgstr ""
+
+# sweepstakes.php
+msgid "Congratulations you have registered for this promo"
+msgstr ""
+
+# sweepstakes.php
+msgid "Sorry, some error happened, reload the page and try again."
+msgstr ""
+
+# sweepstakes.php
+msgid "You must accept the terms for proceed"
+msgstr ""
+
+# sweepstakes.php
+msgid "You can not participate with this code, is alredy in use."
+msgstr ""
+
+# sweepstakes.php
+msgid "This code is invalid."
+msgstr ""
+
+# sweepstakes.php
+msgid "Invalid %s"
+msgstr ""
+
+# sweepstakes.php
+msgid "I accept the"
+msgstr ""
+
+# sweepstakes.php
+msgid "Participate"
+msgstr ""
+
+# sweepstakes.php
+msgid "Close promo"
+msgstr ""
+
+# sweepstakes.php
+msgid "Congratulations %s"
+msgstr ""
+
+# sweepstakes.php
+msgid "You're one of the winners of the draw: %s"
+msgstr ""
+
+# sweepstakes.php
+msgid "Please contact us (%s), to collect the award"
+msgstr ""
+
+# sweepstakes.php
+msgid "[%s] Congratulations"
+msgstr ""
